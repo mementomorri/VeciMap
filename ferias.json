@@ -1,0 +1,138 @@
+[
+  {
+    "barrio": "Barrio Sur",
+    "street": "Héctor Gutiérrez Ruiz",
+    "from": "Canelones",
+    "to": "Maldonado",
+    "day": "Domingo",
+    "raw": "Héctor Gutiérrez Ruiz entre Canelones y Maldonado. Domingo."
+  },
+  {
+    "barrio": "Barrio Sur",
+    "street": "Durazno",
+    "from": "Convención",
+    "to": "Wilson Ferreira Aldunate",
+    "day": "Martes",
+    "raw": "Durazno entre Convención y Wilson Ferreira Aldunate. Martes."
+  },
+  {
+    "barrio": "Ciudad Vieja",
+    "street": "Bartolomé Mitre",
+    "from": "Cerrito",
+    "to": "Piedras",
+    "day": "Martes",
+    "raw": "Bartolomé Mitre entre Cerrito y Piedras. Martes."
+  },
+  {
+    "barrio": "Ciudad Vieja",
+    "street": "Guaraní",
+    "from": "Sarandí",
+    "to": "Buenos Aires",
+    "day": "Viernes",
+    "raw": "Guaraní entre Sarandí y Buenos Aires. Viernes."
+  },
+  {
+    "barrio": "Aguada",
+    "street": "Piedra Alta",
+    "from": "Lima",
+    "to": "Lima",
+    "day": "Sábado",
+    "raw": "Piedra Alta y Lima. Sábado."
+  },
+  {
+    "barrio": "Cordón",
+    "street": "Chaná",
+    "from": "Gaboto",
+    "to": "Gaboto",
+    "day": "Viernes",
+    "raw": "Chaná y Gaboto. Viernes."
+  },
+  {
+    "barrio": "Cordón",
+    "street": "Guaná",
+    "from": "Manuel Blanes",
+    "to": "Jackson",
+    "day": "Viernes",
+    "raw": "Guaná entre Manuel Blanes y Jackson. Viernes."
+  },
+  {
+    "barrio": "Cordón",
+    "street": "Salto",
+    "from": "Soriano",
+    "to": "San Salvador",
+    "day": "Sábado",
+    "raw": "Salto, desde Soriano hasta San Salvador. Sábado."
+  },
+  {
+    "barrio": "Cordón",
+    "street": "Acevedo Díaz",
+    "from": "Francisco Canaro",
+    "to": "Francisco Canaro",
+    "day": "Sábado",
+    "raw": "Acevedo Díaz y Francisco Canaro. Sábado."
+  },
+  {
+    "barrio": "Cordón",
+    "street": "Tristán Narvaja",
+    "from": "Av. 18 de Julio",
+    "to": "Av. 18 de Julio",
+    "day": "Domingo",
+    "raw": "Tristán Narvaja y Av. 18 de Julio. Domingo.*"
+  },
+  {
+    "barrio": "Centro",
+    "street": "Julio Herrera y Obes",
+    "from": "Maldonado",
+    "to": "Durazno",
+    "day": "Viernes",
+    "raw": "Julio Herrera y Obes entre Maldonado y Durazno. Viernes."
+  },
+  {
+    "barrio": "La Comercial",
+    "street": "General Pagola",
+    "from": "la calle Duvimioso Terra",
+    "to": "la calle Cufré",
+    "day": "Sábado",
+    "raw": "General Pagola, desde la calle Duvimioso Terra hasta la calle Cufré. Sábado."
+  },
+  {
+    "barrio": "Palermo",
+    "street": "Martínez Trueba",
+    "from": "Canelones",
+    "to": "Canelones",
+    "day": "Martes",
+    "raw": "Martínez Trueba y Canelones. Martes."
+  },
+  {
+    "barrio": "Palermo",
+    "street": "Isla de Flores",
+    "from": "Gaboto",
+    "to": "Isla de Flores 1780",
+    "day": "Jueves",
+    "raw": "Isla de Flores, desde Gaboto hasta Isla de Flores 1780. Jueves."
+  },
+  {
+    "barrio": "Parque Rodó",
+    "street": "San Salvador",
+    "from": "la calle Dr. Pablo de María",
+    "to": "el Nº 2121",
+    "day": "Miércoles",
+    "raw": "San Salvador desde la calle Dr. Pablo de María hasta el Nº 2121. Miércoles."
+  },
+  {
+    "barrio": "Parque Rodó",
+    "street": "Acevedo Díaz",
+    "from": "Canelones",
+    "to": "Charrúa",
+    "day": "Martes",
+    "raw": "Acevedo Díaz entre Canelones y Charrúa. Martes."
+  },
+  {
+    "barrio": "Villa Muñoz / Retiro",
+    "street": "Democracia",
+    "from": "Hocquart",
+    "to": "Gral. Pagola",
+    "day": "Domingo",
+    "raw": "Democracia, desde Hocquart hasta Gral. Pagola. Domingo."
+  }
+]

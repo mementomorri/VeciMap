@@ -1,0 +1,42 @@
+[
+  {
+    "barrio": "Barrio Sur",
+    "street": "Convención",
+    "from": "Soriano",
+    "to": "Canelones",
+    "day": "Miércoles",
+    "raw": "Barrio Sur: Convención desde Soriano hasta Canelones – Miércoles"
+  },
+  {
+    "barrio": "Centro",
+    "street": "18 de Julio",
+    "from": "Ejido",
+    "to": "Plaza Independencia",
+    "day": "Sábado",
+    "raw": "Centro: 18 de Julio desde Ejido hasta Plaza Independencia - Sábado"
+  },
+  {
+    "barrio": "Pocitos",
+    "street": "Bulevar Artigas",
+    "from": "Ellauri",
+    "to": "José Ellauri",
+    "day": "Domingo",
+    "raw": "Pocitos: Bulevar Artigas desde Ellauri hasta José Ellauri, Domingo"
+  },
+  {
+    "barrio": "Cordón",
+    "street": "Bulevar España",
+    "from": "18 de Julio",
+    "to": "Paraguay",
+    "day": "Viernes",
+    "raw": "Cordón - Bulevar España desde 18 de Julio hasta Paraguay - Viernes"
+  },
+  {
+    "barrio": "Palermo",
+    "street": "San Salvador",
+    "from": "Carlos Gardel",
+    "to": "Isla de Flores",
+    "day": "Martes",
+    "raw": "Palermo: San Salvador (Carlos Gardel to Isla de Flores) - Martes"
+  }
+] 

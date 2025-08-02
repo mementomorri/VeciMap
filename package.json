@@ -1,0 +1,21 @@
+{
+  "name": "ferias-cli",
+  "version": "1.0.0",
+  "description": "CLI toolkit for scraping municipal feria data and generating interactive maps",
+  "main": "index.js",
+  "scripts": {
+    "install-deps": "npm install puppeteer"
+  },
+  "dependencies": {
+    "puppeteer": "^21.0.0"
+  },
+  "keywords": [
+    "ferias",
+    "scraping",
+    "maps",
+    "montevideo",
+    "cli"
+  ],
+  "author": "mementomorri",
+  "license": "MIT"
+} 
